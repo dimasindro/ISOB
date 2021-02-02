@@ -10,9 +10,9 @@ public class TextReaderTest {
     @DataProvider
     public Object[][] filepath() {
         return new Object[][]{
-                {"src/main/resources/data/default.txt", "Some default text :)"},
-                {"src/main/resources/data/input_text.txt", "Всем привет, с вами Димас и сегодня мы попытаемся сдать первую лабу по ИСОБу. Поехали!"},
-                {"blablabla", "Some default text :)"},
+                {"src/main/resources/data/default.txt", "some default text :)"},
+                {"src/main/resources/data/input_text.txt", "суету навести охота"},
+                {"blablabla", "some default text :)"},
 
         };
     }
