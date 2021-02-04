@@ -1,1 +1,1 @@
-# ISOB Labs (6 sem)
+# "Security Tools" Labs (6 sem)
